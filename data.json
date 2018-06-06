@@ -1,8 +1,1 @@
-{"Customers": [
-  {"C1003": {
-    "name": "Deputy Dan",
-    "age": 72,
-    "address": "London",
-    "B-Data": "B data for Dan"
-  }}
-]}
+{"Customers":[{"C1003":{"name":"Deputy Dan","age":72,"address":"London","B-Data":"B data for Dan"},"C1001":{"name":"John Lewis","age":25,"address":"BS, Herts","C-Data":"C specific data"}}]}
