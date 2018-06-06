@@ -1,8 +1,1 @@
-{"Customers": [
-  {"E1": {
-    "name": "John Lewis",
-    "age": 54,
-    "address": "Bishops Stortford",
-    "A-Data": "Updated A specific data"
-  }}
-]}
+{"Customers":[{"E1":{"name":"John Lewis","age":54,"address":"Bishops Stortford","A-Data":"Updated A specific data"}}]}
