@@ -1,1 +1,8 @@
-{"Customers":[{"E1":{"name":"John Lewis","age":25,"address":"Bishops Stortford","B-Data":"B specific data","A-Data":"Updated A specific data"}}]}
+{"Customers": [
+  {"C1003": {
+    "name": "Deputy Dan",
+    "age": 72,
+    "address": "London",
+    "B-Data": "B data for Dan"
+  }}
+]}
